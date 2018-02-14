@@ -29,3 +29,4 @@ Current Propellers Are 5.5inch(14cm)<br />
 NOT COMPLETED
 https://www.robotshop.com/en/uav-brushless-motor-a1510-2200kv.html
 https://www.robotshop.com/en/m20a-20a-multicopter-esc.html
+https://www.banggood.com/2-Pair-3D-5045-5-Inch-3-Blade-Clover-Propeller-Prop-For-Racer-Drone-p-1061207.html?rmmds=search&cur_warehouse=CN
