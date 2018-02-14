@@ -27,4 +27,4 @@ Current Propellers Are 5.5inch(14cm)<br />
 
 # Recommended Hardware for Hardware Issues<br />
 NOT COMPLETED
-https://www.robotshop.com/en/uav-brushless-motor-a2217-9-950kv.html
+https://www.robotshop.com/en/uav-brushless-motor-a1510-2200kv.html
