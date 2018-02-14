@@ -49,6 +49,6 @@ Not Completed!!<br/>
 
 General Specs:<br/>
 Weight: 245 WITHOUT ENGINES OR ESC OR PDB(Power Distribution Board)<br/>
-Total Weight: 525g<br/>
-Thrust Required: (525x2)+((525x2)x0.45)=1,522.5g<br/>
+Total Weight: 323<br/>
+Thrust Required: (525x2)+((525x2)x0.45)=1,522.5g<br/> <NOT COMPLETED>
 Thrust Required Per Motor: 1,522.5 / 4 = 380.625N<br/>
