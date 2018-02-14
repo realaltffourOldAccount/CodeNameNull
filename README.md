@@ -1,4 +1,4 @@
-# Drone Project Detials
+# Arduino Drone Project Detials
 Drone_Project
   Remote Programming Notes:
    The remote board will have two joystick and four buttons, 1 HC-04, 1 LCD DISPLAY SHIELD
