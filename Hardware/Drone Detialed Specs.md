@@ -47,10 +47,37 @@ Width: 20mm<br/>
 Height: 15mm<br/>
 Weight: 10g<br/>
 
+4xRS30A: <br/>
+Input Voltage: 2-4S<br/>
+Con. Current: 30A<br/>
+Peak Current(10s):35A<br/>
+BEC: NO<br/>
+Programming:YES <br/>
+Weight Per ESC:9.1g<br/>
+Size(PCB):28*13mm<br/>
+
+5045 5inch 3 Blade Prop:<br/>
+Diameter: 5inch<br/>
+Rotor Pitch: 4.5<br/>
+Weight Not Specifeid by Manufacture!<br/>
+
+4xDYS Fire 2206 2600KV 3-6S Rating Brushless Motor:<br/>
+KV: 2600<br/>
+Stator Diameter: 22.0mm<br/>
+Stator Length: 6.0mm<br/>
+Shaft Hole Diamter: 3mm<br/>
+Shaft Diamter: 5.0mm<br/>
+Motor Dimensions(Dia.Len): 27.7*17.7mm<br/>
+Weight: 32g<br/>
+No. of Cells(lipo): 3-6S<br/>
+Pull: 1200g<br/>
+Max Continous Current(A): 34.8A<br/>
+Max Continous Power(W): 556.8W<br/>
+Internal Resistance: 0.05OHMS<br/>
+
 Not Completed!!<br/>
 
 General Specs:<br/>
-Weight: 245 WITHOUT ENGINES OR ESC OR PDB(Power Distribution Board)<br/>
-Total Weight: 323<br/>
+Total Weight:  <br/>
 Thrust Required: (525x2)+((525x2)x0.45)=1,522.5g<br/> <NOT COMPLETED>
 Thrust Required Per Motor: 1,522.5 / 4 = 380.625N<br/>
