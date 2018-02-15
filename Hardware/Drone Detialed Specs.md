@@ -7,6 +7,8 @@ Frame Approx wieght 118g <br/>
 Motor To Motor: 220mm <br/>
 Bottom Plate Thickness: 4mm<br/>
 Motor Mount Pattern: 22xx <br/>
+Motor Mount Pattern Detials:<br/>
+Hole To Hole: 23mm<br/>
 Stack Hieght Max : 20mm <br/>
 
 Recommended Component By Frame Manufactur: <br/>
