@@ -1,7 +1,11 @@
 # This file is for storing important Formulas
 
-KV Rating:
-RPM = Kv x voltage
+KV Rating:<br/>
+RPM = Kv x voltage<br/>
 
-Efficiency:
-efficiency= power out / power in
+Efficiency:<br/>
+efficiency= power out / power in<br/>
+
+Motion:<br/>
+Acceleration=0:<br/>
+D=VxS<br/>
