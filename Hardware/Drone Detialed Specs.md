@@ -2,7 +2,7 @@
 
 Frame : <br />
 Name: PUDA Chameleon FPV 5" Freestyle Quad Unibody carbon fiber Frame FPV Racing RC Drone For Armattan Chameleon QAV-X QAV-R 220mm
-Link: https://www.aliexpress.com/item/PUDA-Chameleon-FPV-5-Freestyle-Quad-Unibody-carbon-fiber-Frame-FPV-Racing-RC-Drone-For-Armattan/32839948767.html?spm=2114.search0104.3.54.7c33710fRSO6Vn&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10307_5711211_10313_10059_5722311_10534_100031_10629_10103_10626_10625_10624_10623_10622_10621_10620_10142-10152,searchweb201603_25,ppcSwitch_3&algo_expid=78a18736-c219-4dc8-9e6b-1d66c130cc59-8&algo_pvid=78a18736-c219-4dc8-9e6b-1d66c130cc59&transAbTest=ae803_5&priceBeautifyAB=0
+Link: https://www.aliexpress.com/item/PUDA-Chameleon-FPV-5-Freestyle-Quad-Unibody-carbon-fiber-Frame-FPV-Racing-RC-Drone-For-Armattan/32839948767.html?spm=2114.search0104.3.54.7c33710fRSO6Vn&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10307_5711211_10313_10059_5722311_10534_100031_10629_10103_10626_10625_10624_10623_10622_10621_10620_10142-10152,searchweb201603_25,ppcSwitch_3&algo_expid=78a18736-c219-4dc8-9e6b-1d66c130cc59-8&algo_pvid=78a18736-c219-4dc8-9e6b-1d66c130cc59&transAbTest=ae803_5&priceBeautifyAB=0<br/>
 Frame Approx wieght 118g <br/>
 Motor To Motor: 220mm <br/>
 Bottom Plate Thickness: 4mm<br/>
