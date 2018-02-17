@@ -33,3 +33,4 @@ https://www.banggood.com/4X-Racerstar-RS30A-30A-Blheli_S-OPTO-2-4S-ESC-Support-O
 https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html?rmmds=search&cur_warehouse=CN<br/>
 https://www.banggood.com/Wholesale-60W-220V-Soldering-Iron-Tool-Electronic-Soldering-Iron-Gun-Heat-Pencil-p-27985.html?rmmds=search&cur_warehouse=CN<br/>
 https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core-Solder-Soldering-Welding-Wire-Reel-p-990165.html?rmmds=detail-bottom-alsobought__4&cur_warehouse=CN<br/>
+https://www.banggood.com/5-Pair-40-Pin-2_54mm-Male-Female-SIL-Socket-Row-Strip-PCB-Connector-p-953486.html?rmmds=search&cur_warehouse=CN<br/>
