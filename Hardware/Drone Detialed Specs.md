@@ -78,6 +78,14 @@ Internal Resistance: 0.05OHMS<br/>
 Not Completed!!<br/>
 
 General Specs:<br/>
-Total Weight:  <br/>
+Total Weight:  339.4g without Batteries, 803.16g with batteries<br/>
+Current Thrust: 4x1200=4800g<br/>
+Thrust Required To Hover: 1606.32g<br/>
+Thrust Safe Margin: 722.844g<br/>
+Thrust Required Per Motor To Hover: 401.58g<br/>
+Thrust Required Per Motor To Hover Percentage (compared to max pwr): 33%<br/> 
+Thrust Required Per Motor With Safe Margin: 582.291g<br/>
+Thrust Required Per Motor WIth Safe Margin Percentage (compared to max pwr): 48%<br/>
+Extra Thrust Available Without Safe Margin: 67%=3193.69g<br/>
+Extra Thrust Available With Safe Margin: 52%= 2470.836g<br/>
 Thrust Required: (525x2)+((525x2)x0.45)=1,522.5g<br/> <NOT COMPLETED>
-Thrust Required Per Motor: 1,522.5 / 4 = 380.625N<br/>
