@@ -31,3 +31,5 @@ https://www.banggood.com/2-Pair-3D-5045-5-Inch-3-Blade-Clover-Propeller-Prop-For
 https://www.banggood.com/DYS-Fire-2206-2100KV-2300KV-2600KV-2-4S-Brushless-Motor-For-200-210-220-280-FPV-Racing-Frame-p-1091707.html?ID=511866&cur_warehouse=CN<br/>
 https://www.banggood.com/4X-Racerstar-RS30A-30A-Blheli_S-OPTO-2-4S-ESC-Support-Oneshot42-Multishot-for-FPV-Racing-p-1064326.html?rmmds=search<br/>
 https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html?rmmds=search&cur_warehouse=CN<br/>
+https://www.banggood.com/Wholesale-60W-220V-Soldering-Iron-Tool-Electronic-Soldering-Iron-Gun-Heat-Pencil-p-27985.html?rmmds=search&cur_warehouse=CN<br/>
+https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core-Solder-Soldering-Welding-Wire-Reel-p-990165.html?rmmds=detail-bottom-alsobought__4&cur_warehouse=CN<br/>
