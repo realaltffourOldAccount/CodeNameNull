@@ -34,3 +34,4 @@ https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-Wi
 https://www.banggood.com/Wholesale-60W-220V-Soldering-Iron-Tool-Electronic-Soldering-Iron-Gun-Heat-Pencil-p-27985.html?rmmds=search&cur_warehouse=CN<br/>
 https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core-Solder-Soldering-Welding-Wire-Reel-p-990165.html?rmmds=detail-bottom-alsobought__4&cur_warehouse=CN<br/>
 https://www.banggood.com/5-Pair-40-Pin-2_54mm-Male-Female-SIL-Socket-Row-Strip-PCB-Connector-p-953486.html?rmmds=search&cur_warehouse=CN<br/>
+https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
