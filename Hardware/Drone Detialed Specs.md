@@ -88,4 +88,4 @@ Thrust Required Per Motor With Safe Margin: 582.291g<br/>
 Thrust Required Per Motor WIth Safe Margin Percentage (compared to max pwr): 48%<br/>
 Extra Thrust Available Without Safe Margin: 67%=3193.69g<br/>
 Extra Thrust Available With Safe Margin: 52%= 2470.836g<br/>
-Thrust Required: (525x2)+((525x2)x0.45)=1,522.5g<br/> <NOT COMPLETED>
+Thrust Required: (803.16x2)+((803.16x2)x0.45)=1,967.742g<br/> <NOT COMPLETED>
