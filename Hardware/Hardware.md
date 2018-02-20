@@ -35,3 +35,4 @@ Soldering Tool: https://www.banggood.com/Wholesale-60W-220V-Soldering-Iron-Tool-
 Tin Soldering: https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core-Solder-Soldering-Welding-Wire-Reel-p-990165.html?rmmds=detail-bottom-alsobought__4&cur_warehouse=CN<br/>
 Male/Female Connectors: https://www.banggood.com/5-Pair-40-Pin-2_54mm-Male-Female-SIL-Socket-Row-Strip-PCB-Connector-p-953486.html?rmmds=search&cur_warehouse=CN<br/>
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
+LI-PO: https://www.ubuy.com.sa/en/catalog/product/view/id/4637946/s/tattu-r-line-lipo-battery-pack-1300mah-14-8v-95c-4s-with-xt60-plug-for-fpv-racing?sku=B01LW1XZ10&store=store&p-key=1902#prettyPhoto<br/>
