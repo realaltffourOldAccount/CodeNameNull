@@ -95,7 +95,7 @@ Defualt Factory settings: Mode FU3, buad rate is 9600bps, communication cahnnels
 
 Not Completed!!<br/>
 
-General Specs:<br/>
+# General Specs:<br/>
 Total Weight:  339.4g without Batteries, 803.16g with batteries<br/>
 Current Thrust: 4x1200=4800g<br/>
 Thrust Required To Hover: 1606.32g<br/>
