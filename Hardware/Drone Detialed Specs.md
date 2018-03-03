@@ -77,6 +77,14 @@ Internal Resistance: 0.05OHMS<br/>
 
 Not Completed!!<br/>
 
+PDB(Power Distirbution Board):<br/>
+Item Name: 2-6S Power Distribution Board<br/>
+Input: 7-27v(2-6s LiPo) w/TVS(Transiet-voltage-suppression diode) protection<br/>
+PDB: 4x30A(Max. 4x50A), 4 layers x 2oz copper PCB<br/>
+Dual BEC: 5V:3A & 12V 3A<br/>
+Mounting Holes: 30.5x30.5mm<br/>
+Weight: 9.4g<br/>
+
 General Specs:<br/>
 Total Weight:  339.4g without Batteries, 803.16g with batteries<br/>
 Current Thrust: 4x1200=4800g<br/>
