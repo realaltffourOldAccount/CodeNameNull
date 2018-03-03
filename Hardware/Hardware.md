@@ -26,7 +26,7 @@ Propellers Will burn the engine cuz egnines made for 3inch(7.62cm) props<br />
 Current Propellers Are 5.5inch(14cm)<br />
 Engines can go more than 9m(the maximum distance for the HC-04), HC-12 is recommended(900m-1.8km)<br/>
 # Recommended Hardware for Hardware Issues<br />
-NOT COMPLETED
+NOT COMPLETED<br/>
 5045 5inch 3 Blade:https://www.banggood.com/2-Pair-3D-5045-5-Inch-3-Blade-Clover-Propeller-Prop-For-Racer-Drone-p-1061207.html?rmmds=search&cur_warehouse=CN<br/>
 DYS Fire 2600KV: https://www.banggood.com/DYS-Fire-2206-2100KV-2300KV-2600KV-2-4S-Brushless-Motor-For-200-210-220-280-FPV-Racing-Frame-p-1091707.html?ID=511866&cur_warehouse=CN<br/>
 RS60A ESC: https://www.banggood.com/4X-Racerstar-RS30A-30A-Blheli_S-OPTO-2-4S-ESC-Support-Oneshot42-Multishot-for-FPV-Racing-p-1064326.html?rmmds=search<br/>
