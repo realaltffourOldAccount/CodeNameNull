@@ -1,6 +1,6 @@
 # Drone Detialed Specs
 
-Frame : <br />
+# Frame : <br />
 Name: PUDA Chameleon FPV 5" Freestyle Quad Unibody carbon fiber Frame FPV Racing RC Drone For Armattan Chameleon QAV-X QAV-R 220mm
 Link: https://www.aliexpress.com/item/PUDA-Chameleon-FPV-5-Freestyle-Quad-Unibody-carbon-fiber-Frame-FPV-Racing-RC-Drone-For-Armattan/32839948767.html?spm=2114.search0104.3.54.7c33710fRSO6Vn&ws_ab_test=searchweb0_0,searchweb201602_1_10152_10151_10065_10344_10068_10342_10343_10340_10341_10084_10083_10618_10307_5711211_10313_10059_5722311_10534_100031_10629_10103_10626_10625_10624_10623_10622_10621_10620_10142-10152,searchweb201603_25,ppcSwitch_3&algo_expid=78a18736-c219-4dc8-9e6b-1d66c130cc59-8&algo_pvid=78a18736-c219-4dc8-9e6b-1d66c130cc59&transAbTest=ae803_5&priceBeautifyAB=0<br/>
 Frame Approx wieght 118g <br/>
@@ -17,7 +17,7 @@ ESCs: 30a <br/>
 Prop Size: 5" <br/>
 LiPo: 3S-4S/1300-1500mAH <br/>
 
-Arduino Mega:<br/>
+# Arduino Mega:<br/>
 MicroController: ATmega2560<br/
 Operating Voltage: 5V <br/>
 Input Voltage: 7-12V<br/>
@@ -35,7 +35,7 @@ Length: 101.52mm<br/>
 Width: 53.3mm<br/>
 Weight: 37g<br/>
 
-2xHC-SR04:<br/>
+# 2xHC-SR04:<br/>
 Working Voltage: DC5V<br/>
 Working Current: 15mA<br/>
 Working Frequency: 40Hz<br/>
@@ -47,7 +47,7 @@ Width: 20mm<br/>
 Height: 15mm<br/>
 Weight: 10g<br/>
 
-4xRS30A: <br/>
+# 4xRS30A: <br/>
 Input Voltage: 2-4S<br/>
 Con. Current: 30A<br/>
 Peak Current(10s):35A<br/>
@@ -56,12 +56,12 @@ Programming:YES <br/>
 Weight Per ESC:9.1g<br/>
 Size(PCB):28*13mm<br/>
 
-5045 5inch 3 Blade Prop:<br/>
+# 5045 inch 3 Blade Prop:<br/>
 Diameter: 5inch<br/>
 Rotor Pitch: 4.5<br/>
 Weight Not Specifeid by Manufacture!<br/>
 
-4xDYS Fire 2206 2600KV 3-6S Rating Brushless Motor:<br/>
+# 4xDYS Fire 2206 2600KV 3-6S Rating Brushless Motor:<br/>
 KV: 2600<br/>
 Stator Diameter: 22.0mm<br/>
 Stator Length: 6.0mm<br/>
@@ -75,15 +75,15 @@ Max Continous Current(A): 34.8A<br/>
 Max Continous Power(W): 556.8W<br/>
 Internal Resistance: 0.05OHMS<br/>
 
-Not Completed!!<br/>
-
-PDB(Power Distirbution Board):<br/>
+# PDB(Power Distirbution Board):<br/>
 Item Name: 2-6S Power Distribution Board<br/>
 Input: 7-27v(2-6s LiPo) w/TVS(Transiet-voltage-suppression diode) protection<br/>
 PDB: 4x30A(Max. 4x50A), 4 layers x 2oz copper PCB<br/>
 Dual BEC: 5V:3A & 12V 3A<br/>
 Mounting Holes: 30.5x30.5mm<br/>
 Weight: 9.4g<br/>
+
+Not Completed!!<br/>
 
 General Specs:<br/>
 Total Weight:  339.4g without Batteries, 803.16g with batteries<br/>
