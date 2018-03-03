@@ -83,6 +83,16 @@ Dual BEC: 5V:3A & 12V 3A<br/>
 Mounting Holes: 30.5x30.5mm<br/>
 Weight: 9.4g<br/>
 
+# 2xHC-12:<br/>
+Name: Geekcriet HC-12 433 Wireless Serial Module Remote 1000M with Antenna
+Supply Voltage: 3.2v-5.5v(>4.5v for long term uses)
+Defualt Address Range: About 600m(adjactable to 1000m)
+Defualt IDE current: 16mA (In Different working modes operating system current is different)
+Module Dimensions: 27.8 x 14.4 x 4mm
+Operating frequency range: 433.4-473.0Mhz, 100 channels of communications
+The Maximum transit power: 100mW(settable)
+Defualt Factory settings: Mode FU3, buad rate is 9600bps, communication cahnnels CH001 (433.4Mhz)
+
 Not Completed!!<br/>
 
 General Specs:<br/>
