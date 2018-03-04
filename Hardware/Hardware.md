@@ -36,3 +36,7 @@ Tin Soldering: https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core
 Male/Female Connectors: https://www.banggood.com/5-Pair-40-Pin-2_54mm-Male-Female-SIL-Socket-Row-Strip-PCB-Connector-p-953486.html?rmmds=search&cur_warehouse=CN<br/>
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
 LI-PO: https://www.ubuy.com.sa/en/catalog/product/view/id/4637946/s/tattu-r-line-lipo-battery-pack-1300mah-14-8v-95c-4s-with-xt60-plug-for-fpv-racing?sku=B01LW1XZ10&store=store&p-key=1902#prettyPhoto<br/>
+https://www.banggood.com/Wholesale-IMAX-B6-Digital-RC-Lipo-NiMH-battery-Balance-Charger-p-46220.html?rmmds=search&cur_warehouse=CN<br/>
+LiPo Battery Charger: https://www.banggood.com/Charsoon-DC-4S-2-4S-Li-polyLi-ion-Battery-Balance-Charger-Voltage-Detector-with-Power-Adapter-p-1081892.html?rmmds=detail-bottom-alsobought__1&ID=229&cur_warehouse=CN<br/>
+LiPo Battery Charger 2: https://www.banggood.com/CellMeter-7-Battery-Capacity-Checker-LiPo-LiFe-Li-ion-NiMH-NiCd-p-85223.html?rmmds=search&cur_warehouse=CN<br/>
+Battery buzzer: https://www.banggood.com/Wholesale-1S-8S-Li-po-Battery-Voltage-Tester-Checker-Indicator-Monitor-Buzzer-Alarm-p-26049.html?rmmds=search<br/>
