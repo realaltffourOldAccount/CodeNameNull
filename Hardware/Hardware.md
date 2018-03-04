@@ -40,3 +40,4 @@ https://www.banggood.com/Wholesale-IMAX-B6-Digital-RC-Lipo-NiMH-battery-Balance-
 LiPo Battery Charger: https://www.banggood.com/Charsoon-DC-4S-2-4S-Li-polyLi-ion-Battery-Balance-Charger-Voltage-Detector-with-Power-Adapter-p-1081892.html?rmmds=detail-bottom-alsobought__1&ID=229&cur_warehouse=CN<br/>
 LiPo Battery Charger 2: https://www.banggood.com/CellMeter-7-Battery-Capacity-Checker-LiPo-LiFe-Li-ion-NiMH-NiCd-p-85223.html?rmmds=search&cur_warehouse=CN<br/>
 Battery buzzer: https://www.banggood.com/Wholesale-1S-8S-Li-po-Battery-Voltage-Tester-Checker-Indicator-Monitor-Buzzer-Alarm-p-26049.html?rmmds=search<br/>
+Zip Ties: https://www.banggood.com/1000pcs-2_0x100mm-Black-White-Nylon-Cable-Ties-Zip-Ties-p-957232.html?rmmds=search&cur_warehouse=CN<br/>
