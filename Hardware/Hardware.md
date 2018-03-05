@@ -38,7 +38,7 @@ PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-
 LI-PO: https://www.aliexpress.com/item/CNHL-G-PLUS-Li-Po-1500mAh-18-5V-5S-100C-Max-200C-Lipo-Battery-Pack-for/32830530126.html<br/>
 LiPo Battery Charger: https://www.banggood.com/Wholesale-IMAX-B6-Digital-RC-Lipo-NiMH-battery-Balance-Charger-p-46220.html?rmmds=search&cur_warehouse=CN<br/>
 LiPo Battery Checker 2: https://www.banggood.com/CellMeter-7-Battery-Capacity-Checker-LiPo-LiFe-Li-ion-NiMH-NiCd-p-85223.html?rmmds=search&cur_warehouse=CN<br/>
-Charger Plug: https://www.banggood.com/Wholesale-PD1205-12V-5A-AC-Power-Adapter-For-iMAX-B5-B6-B8-3E-Charger-p-49439.html?rmmds=detail-top-buytogether-auto__2&cur_warehouse=CN<br/>
+Charger Plug: https://www.banggood.com/DC-12V-5A-For-Imax-B5-B6-Balancer-Charger-AC-Power-Adapter-p-934901.html?rmmds=search&cur_warehouse=CN<br/>
 Battery buzzer: https://www.banggood.com/Wholesale-1S-8S-Li-po-Battery-Voltage-Tester-Checker-Indicator-Monitor-Buzzer-Alarm-p-26049.html?rmmds=search<br/>
 Battery/Charger Connecter: https://www.banggood.com/XT60-Connector-to-Banana-Plug-4mm-Battery-Connectors-Charger-Cable-p-938171.html?rmmds=detail-top-buytogether-auto__3&cur_warehouse=CN<br/>
 Zip Ties: https://www.banggood.com/1000pcs-2_0x100mm-Black-White-Nylon-Cable-Ties-Zip-Ties-p-957232.html?rmmds=search&cur_warehouse=CN<br/>
