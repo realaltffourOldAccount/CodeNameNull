@@ -1,3 +1,4 @@
+# New Items Cost: 
 
 2x 2 Pair 5045 5 Inch Propellers: 35.02 S.A.R. <br/>
 4 x DYS Fire 2600kv: 305.04 S.A.R.<br/>
