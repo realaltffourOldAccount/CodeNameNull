@@ -27,7 +27,7 @@ Current Propellers Are 5.5inch(14cm)<br />
 Engines can go more than 9m(the maximum distance for the HC-04), HC-12 is recommended(900m-1.8km)<br/>
 # Recommended Hardware for Hardware Issues<br />
 NOT COMPLETED<br/>
-<h3>Main Components</h3>
+<h3>Main Components:</h3>
 DYS Fire 2600KV: https://www.banggood.com/DYS-Fire-2206-2100KV-2300KV-2600KV-2-4S-Brushless-Motor-For-200-210-220-280-FPV-Racing-Frame-p-1091707.html?ID=511866&cur_warehouse=CN<br/>
 DYS Ariea ESC: https://www.banggood.com/DYS-BLHeli_32bit-35A-35amp-Brushless-ESC-2-6S-Dshot1200-Ready-For-FPV-Racing-p-1148598.html?rmmds=search&cur_warehouse=HK<br/>
 5045 5inch 3 Blade:https://www.banggood.com/2-Pair-3D-5045-5-Inch-3-Blade-Clover-Propeller-Prop-For-Racer-Drone-p-1061207.html?rmmds=search&cur_warehouse=CN<br/>
@@ -35,7 +35,7 @@ HC-12: https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
 LI-PO: https://www.aliexpress.com/item/CNHL-G-PLUS-Li-Po-1500mAh-18-5V-5S-100C-Max-200C-Lipo-Battery-Pack-for/32830530126.html<br/>
 
-<h3>Secondary/Safety Components</h3>
+<h3>Secondary/Safety Components:</h3>
 Soldering Tool: https://www.banggood.com/Mustool-MT223-60W-Adjustable-Temperature-Electric-Soldering-Iron-with-5pcs-Solder-Tips-p-1077119.html?rmmds=detail-top-buytogether-auto__1&ID=523699&cur_warehouse=CN<br/>
 Tin Soldering: https://www.banggood.com/0_4mm-50g-60-40-Flux-Tin-Lead-Rosin-Core-Solder-Soldering-Welding-Wire-Reel-p-990165.html?rmmds=detail-bottom-alsobought__4&cur_warehouse=CN<br/>
 Male/Female Connectors: https://www.banggood.com/5-Pair-40-Pin-2_54mm-Male-Female-SIL-Socket-Row-Strip-PCB-Connector-p-953486.html?rmmds=search&cur_warehouse=CN<br/>
