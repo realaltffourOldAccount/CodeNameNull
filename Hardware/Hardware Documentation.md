@@ -47,7 +47,7 @@ Width: 20mm<br/>
 Height: 15mm<br/>
 Weight: 10g<br/>
 
-# 4xRS30A: <br/>
+# 4xDYS ARIEA 35A: <br/>
 Input Voltage: 2-4S<br/>
 Con. Current: 30A<br/>
 Peak Current(10s):35A<br/>
