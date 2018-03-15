@@ -30,7 +30,7 @@ NOT COMPLETED<br/>
 <h3>Main Components:</h3>
 DYS Fire 2600KV: https://www.banggood.com/DYS-Fire-2206-2100KV-2300KV-2600KV-2-4S-Brushless-Motor-For-200-210-220-280-FPV-Racing-Frame-p-1091707.html?ID=511866&cur_warehouse=CN<br/>
 DYS Ariea ESC: https://www.banggood.com/DYS-BLHeli_32bit-35A-35amp-Brushless-ESC-2-6S-Dshot1200-Ready-For-FPV-Racing-p-1148598.html?rmmds=search&cur_warehouse=HK<br/>
-5045 5inch 3 Blade:https://www.banggood.com/2-Pair-3D-5045-5-Inch-3-Blade-Clover-Propeller-Prop-For-Racer-Drone-p-1061207.html?rmmds=search&cur_warehouse=CN<br/>
+5040 5inch 3 Blade:https://www.banggood.com/GEPRC-5040-V2-5-Inch-3-Blade-Propeller-Triblade-Props-Colver-Prop-Blue-Yellow-Pink-For-FPV-Racer-p-1122981.html?rmmds=search&cur_warehouse=CN<br/>
 HC-12: https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html?rmmds=search&cur_warehouse=CN<br/>
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
 LI-PO: https://www.aliexpress.com/item/CNHL-G-PLUS-Li-Po-1500mAh-18-5V-5S-100C-Max-200C-Lipo-Battery-Pack-for/32830530126.html<br/>
