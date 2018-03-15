@@ -28,8 +28,7 @@ Engines can go more than 9m(the maximum distance for the HC-04), HC-12 is recomm
 # Recommended Hardware for Hardware Issues<br />
 NOT COMPLETED<br/>
 <h3>Main Components:</h3>
-EMAX RS2306S 2600KV:https://hobbyking.com/en_us/emax-rs2306a-2750kv-black-version-motor.html<br/>
-DYS Ariea ESC: https://www.banggood.com/DYS-BLHeli_32bit-35A-35amp-Brushless-ESC-2-6S-Dshot1200-Ready-For-FPV-Racing-p-1148598.html?rmmds=search&cur_warehouse=HK<br/>
+EMAX RS2205S 2600KV:https://hobbyking.com/en_us/emax-rs2205-s-2300kv-cw.html<br/>
 5040 5inch 3 Blade:https://www.banggood.com/GEPRC-5040-V2-5-Inch-3-Blade-Propeller-Triblade-Props-Colver-Prop-Blue-Yellow-Pink-For-FPV-Racer-p-1122981.html?rmmds=search&cur_warehouse=CN<br/>
 HC-12: https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html?rmmds=search&cur_warehouse=CN<br/>
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
