@@ -32,7 +32,7 @@ EMAX RS2205S 2600KV:https://hobbyking.com/en_us/emax-rs2205-s-2300kv-cw.html<br/
 5040 5inch 3 Blade:https://www.banggood.com/GEPRC-5040-V2-5-Inch-3-Blade-Propeller-Triblade-Props-Colver-Prop-Blue-Yellow-Pink-For-FPV-Racer-p-1122981.html?rmmds=search&cur_warehouse=CN<br/>
 HC-12: https://www.banggood.com/HC-12-433-SI4463-Wireless-Serial-Module-Remote-1000M-With-Antenna-p-973522.html?rmmds=search&cur_warehouse=CN<br/>
 PDB: https://www.banggood.com/2-6S-Power-Distribution-Board-Built-in-Dual-5V12V-BEC-for-FPV-Racing-Drone-9_4g-p-1212587.html?rmmds=search&cur_warehouse=CN<br/>
-LI-PO: https://www.aliexpress.com/item/CNHL-G-PLUS-Li-Po-1500mAh-18-5V-5S-100C-Max-200C-Lipo-Battery-Pack-for/32830530126.html<br/>
+LI-PO: https://www.aliexpress.com/item/Hot-New-For-Infinity-4S-14-8V-1800mAh-90C-Graphene-LiPo-Battery-XT60-SY60-for-RC/32850531055.html?spm=2114.search0104.3.8.55182bf40L3meH&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10343_10340_10341_10696_10084_10083_10618_10307_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_41,ppcSwitch_4&algo_expid=9bbcb7e6-5254-4231-abe1-3c77b2730ad2-1&algo_pvid=9bbcb7e6-5254-4231-abe1-3c77b2730ad2&priceBeautifyAB=0<br/>
 
 <h3>Secondary/Safety Components:</h3>
 Soldering Tool: https://www.banggood.com/Mustool-MT223-60W-Adjustable-Temperature-Electric-Soldering-Iron-with-5pcs-Solder-Tips-p-1077119.html?rmmds=detail-top-buytogether-auto__1&ID=523699&cur_warehouse=CN<br/>
