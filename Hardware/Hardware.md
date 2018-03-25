@@ -29,7 +29,7 @@ Engines can go more than 9m(the maximum distance for the HC-04), HC-12 is recomm
 NOT COMPLETED<br/>
 <h3>Main Components:</h3>
 EMAX RS2205S 2600KV:https://hobbyking.com/en_us/emax-rs2205-s-2300kv-cw.html<br/>
-EMAX 35A Bullet ESC:https://hobbyking.com/en_us/bullet-series-35a-esc-blheli-s.html<br/>
+DYS Mini 30A ESC:https://hobbyking.com/en_us/mini-30a-esc-with-blheli-firmware-solder-version.html<br/>
 DAL CYCLONE 5045 3 Blade:https://hobbyking.com/en_us/t5045c-green.html<br/>
 HC-12: https://www.aliexpress.com/item/1pcs-433Mhz-HC-12-SI4463-Wireleass-Serial-Port-Module-1000m-Replace-Bluetooth-NEW/32697639528.html?spm=2114.search0104.3.36.75116d73i0CWqV&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10343_10340_10341_10696_10084_10083_10618_10307_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_41,ppcSwitch_4&algo_expid=04b19ce8-68c7-4fc6-a08c-02cab9980255-5&algo_pvid=04b19ce8-68c7-4fc6-a08c-02cab9980255&priceBeautifyAB=0<br/>
 PDB: https://www.aliexpress.com/item/2-6S-30A-5V-12V-Dual-BEC-3A-PDB-Power-Distribution-Board-XT60-for-QAV210-250/32843313332.html?spm=2114.search0104.3.8.12b66646BcFnvk&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10343_10340_10341_10696_10084_10083_10618_10307_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_41,ppcSwitch_4&algo_expid=f4bc95b4-aced-415a-99c4-838783763cff-1&algo_pvid=f4bc95b4-aced-415a-99c4-838783763cff&priceBeautifyAB=0<br/>
