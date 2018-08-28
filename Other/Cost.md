@@ -10,16 +10,14 @@
 4 x RGB LEDS: 1 * 4 = 4 S.A.R. <br/>
 2 x L298N: 22 * 2 = 44 S.A.R. <br/>
 1 x LCD: 45 S.A.R.<br/>
-4 x SoloGood BR1103: 113.7 S.A.R.<br/>
-Total: 736.20 SAR with 15.00 SAR ship fee! <br/>
+4 x SoloGood BR1103: 96.675 S.A.R.<br/>
+2 x Pair of mini RC quadcopter: 12.525 S.A.R.<br/>
+Total: 748.725 S.A.R. with 15.00 S.A.R. ship fee! <br/>
 
 # Hardware Cost lost:
-Component Used With lost hardware Total Cost: 342 S.A.R.<br/>
-Component Used Cost: 155 S.A.R.<br/>
-Components Lost Cost: 186 S.A.R.<br/>
-
-Other Components Abondoned: 2 x HC-06<br/>
-Other Components Abondoned Cost: 35 x 2 = 70 S.A.R.<br/>
+2 x L298N: 44 S.A.R
+4 x SoloGood BR1103: 96.675 S.A.R.
+Component Used With lost hardware Total Cost: 140.675 S.A.R.<br/>
 
 # New Items Cost: 
 NOT COMPLETED
