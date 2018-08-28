@@ -1,4 +1,4 @@
-# Current Hardware Cost(Not Accuret):
+# Current Hardware Cost(Not Accurete):
 1 x Arduino Uno R3: 85 S.A.R.<br/>
 2 x Joystick: 5 * 2 = 10 S.A.R. <br/>
 2 x HC-06: 35 * 2 = 70 S.A.R.<br/>
