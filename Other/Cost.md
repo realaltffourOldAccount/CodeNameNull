@@ -11,7 +11,7 @@
 2 x L298N: 22 * 2 = 44 S.A.R. <br/>
 1 x LCD: 45 S.A.R.<br/>
 4 x SoloGood BR1103: 113.7 S.A.R.<br/>
-Total: 528 Without Shipping! <br/>
+Total: 736.20 SAR with 15.00 SAR ship fee! <br/>
 
 # Hardware Cost lost:
 Component Used With lost hardware Total Cost: 342 S.A.R.<br/>
