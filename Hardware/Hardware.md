@@ -19,6 +19,7 @@ Body Frame<br />
 4 SoloGood BR1103<br />
 
 https://www.emaxmodel.com/bullet-series-20a-esc.html
+https://www.emaxmodel.com/emax-rs2205s-racespec-motor.html
 
 # Issues in Hardware:<br />
 L298N does not work with brushless motor<br />
