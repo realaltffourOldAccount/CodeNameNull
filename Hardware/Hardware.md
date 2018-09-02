@@ -18,6 +18,8 @@ Body Frame<br />
 2 L298N<br />
 4 SoloGood BR1103<br />
 
+https://www.emaxmodel.com/bullet-series-20a-esc.html
+
 # Issues in Hardware:<br />
 L298N does not work with brushless motor<br />
 Brushless motor needs an ESC(electronic speed controller)<br />
@@ -28,9 +30,9 @@ Engines can go more than 9m(the maximum distance for the HC-04), HC-12 is recomm
 # Recommended Hardware for Hardware Issues<br />
 NOT COMPLETED<br/>
 <h3>Main Components:</h3>
-Turnigy D2826-6 2200Kv: https://hobbyking.com/en_us/d2826-6-2200kv-outrunner-motor.html<br/>
-Trunigy MultiStar 40A ESC: https://hobbyking.com/en_us/turnigy-multistar-40a-blheli-s-rev-16-esc-opto.html<br/>
-DAL CYCLONE 5045 3 Blade: https://hobbyking.com/en_us/t5045c-black.html<br/>
+EMAX-RS2205S 2300KV cw: https://hobbyking.com/en_us/emax-rs2205-s-2300kv-cw.html<br/>
+EMAX 20A D-SHOT ESC:https://hobbyking.com/en_us/emax-d-shot-bullet-series-20a-esc-blheli-s.html<br/>
+DAL triblade: https://www.aliexpress.com/item/High-Quality-2-Pairs-DALPROP-5045-T5045-V2-3-Blade-PC-Propeller-CW-CCW-For-QAV250/32798120090.html?spm=2114.search0204.8.3.1e9c6fa4lcECS7&priceBeautifyAB=0<br/>
 PDB: https://www.aliexpress.com/item/2-6S-30A-5V-12V-Dual-BEC-3A-PDB-Power-Distribution-Board-XT60-for-QAV210-250/32843313332.html?spm=2114.search0104.3.8.12b66646BcFnvk&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10343_10340_10341_10696_10084_10083_10618_10307_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_41,ppcSwitch_4&algo_expid=f4bc95b4-aced-415a-99c4-838783763cff-1&algo_pvid=f4bc95b4-aced-415a-99c4-838783763cff&priceBeautifyAB=0<br/>
 <h3>Secondary/Safety Components:</h3>
 Tin Soldering: https://www.aliexpress.com/item/Electronic-Soldering-100g-0-8-1-0-1-2-1-8mm-Tin-Solder-Wire-Welding-Wires/32816077317.html?spm=2114.search0104.3.2.2c6a567ci1FZj3&ws_ab_test=searchweb0_0,searchweb201602_5_10152_10151_10065_10344_10068_10342_10343_10340_10341_10696_10084_10083_10618_10307_5711215_10313_10059_10534_100031_10103_10627_10626_10624_10623_10622_5711315_10621_10620_5722415,searchweb201603_41,ppcSwitch_4&algo_expid=32ad4a5c-a222-422d-b5fd-85fcd8f6f52e-0&algo_pvid=32ad4a5c-a222-422d-b5fd-85fcd8f6f52e&priceBeautifyAB=0<br/>
