@@ -21,3 +21,6 @@ Component Used With lost hardware Total Cost: 140.675 S.A.R.<br/>
 
 # New Items Cost: 
 NOT COMPLETED
+From HobbyKing: 368.475sr without shipping<br/>
+From AliExpress: 155.587sr without shipping<br/>
+Total: 524.062sr without shipping<br/>
