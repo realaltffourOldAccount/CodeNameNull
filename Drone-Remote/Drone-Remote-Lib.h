@@ -21,6 +21,9 @@
 #define PING_DRONE_STR "<PING?>"
 #define ALTITUDE_DRONE_STR "<ALTITUDE?>"
 
+
+#define CONNECTION_STARTED_STR "<CONNECTED!>"
+
 class Remote 
 {
     public:
