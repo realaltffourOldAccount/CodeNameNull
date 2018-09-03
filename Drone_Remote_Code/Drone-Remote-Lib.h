@@ -12,7 +12,6 @@
 
 #define POWER_3.3V 2
 
-
 #define CONNECTION_STR "<START>"
 #define END_CONNECTION_STR "<END>"
 
@@ -48,4 +47,69 @@ class Remote
         bool enginesIgnited = false;
         bool engine_idled = false;
         float approxDist = 0.0f;
+};
+
+void Remote::Init()
+{
+
+}
+
+void Remote::ConnectToDrone()
+{
+
+}
+
+void Remote::CheckConnection()
+{
+
+}
+
+void Remote::PingDrone()
+{
+
+}
+
+void Remote::IgniteEngines()
+{
+
+}
+
+void Remote::IDLE_Engine()
+{
+
+}
+
+void Remote::SetClimbRate(float rate)
+{
+
+}
+
+void Remote::ShutDownEngines()
+{
+
+}
+
+void Remote::RequestAutoLand()
+{
+
+}
+
+void Remote::StartClimb()
+{
+
+}
+
+void Remote::HoverPlane()
+{
+
+}
+
+float Remote::GetAltitude()
+{
+
+}
+
+float Remote::GetDistance()
+{
+
 }
