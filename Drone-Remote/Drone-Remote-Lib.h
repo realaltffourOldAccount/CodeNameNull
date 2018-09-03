@@ -1,4 +1,6 @@
 #include <Arduino.h>
+#include <SoftwareSerial.h>
+
 
 #define BT_RX 0
 #define BT_TX 1
@@ -21,8 +23,11 @@
 #define PING_DRONE_STR "<PING?>"
 #define ALTITUDE_DRONE_STR "<ALTITUDE?>"
 
-
 #define CONNECTION_STARTED_STR "<CONNECTED!>"
+#define PINGED_DRONE_STR "<PING!>"
+#define GET_VAL_STR "<VAL> "
+#define STATUS_OK "<OK!>"
+#define STATUS_ERROR "<ERROR!>"
 
 class Remote 
 {
@@ -50,6 +55,7 @@ class Remote
         bool enginesIgnited = false;
         bool engine_idled = false;
         float approxDist = 0.0f;
+
 };
 
 void Remote::Init()
