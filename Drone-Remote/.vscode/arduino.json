@@ -1,7 +1,0 @@
-{
-    "board": "arduino:avr:uno",
-    "port": "COM3",
-    "output": "build/",
-    "debugger": "jlink",
-    "sketch": "Drone-Remote.ino"
-}
