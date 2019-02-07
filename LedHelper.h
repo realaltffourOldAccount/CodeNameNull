@@ -66,13 +66,13 @@ void setLed3_Red() {
 // Set led3 green
 void setLed3_Green() {
   pinMode(STATE_LED3_GREEN, OUTPUT);
-  digitalWrite(STATE_LED3_RED, HIGH);
+  digitalWrite(STATE_LED3_GREEN, HIGH);
 }
 
 // Set led3 blue
 void setLed3_Blue() {
   pinMode(STATE_LED3_BLUE, OUTPUT);
-  digitalWrite(STATE_LED3_GREEN, HIGH);
+  digitalWrite(STATE_LED3_BLUE, HIGH);
 }
 
 // Set led4 red
@@ -188,6 +188,7 @@ void setAll_Blue() {
   setLed1_Blue();
   setLed2_Blue();
   setLed3_Blue();
+  setLed4_Blue();
 }
 
 // turn off all

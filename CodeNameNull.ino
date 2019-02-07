@@ -52,7 +52,7 @@ style:
 void setup() {
   initBtns();
   onL298N();
-  steadyCar();
+  // steadyCar();
   alertStartup();
   setStyle();
 }
