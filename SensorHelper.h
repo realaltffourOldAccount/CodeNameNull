@@ -33,7 +33,7 @@ long getRearSensor() {
   delayMicroseconds(10);
   digitalWrite(REAR_SENSOR_TRIGGER_PIN, LOW);
   pinMode(REAR_SENSOR_RECIEVE_PIN, INPUT);
-  long duration = pulseIn(FRONT_SENSOR_RECIEVE_PIN, HIGH);
+  long duration = pulseIn(REAR_SENSOR_RECIEVE_PIN, HIGH);
   return SensorMsToCm(duration);
 }
 
