@@ -9,7 +9,7 @@
 // SENSORS
 
 // Converts the time tacken to recieve echo to centimeter
-long SensorMsToCm(long microseconds) { return microseconds / 29 / 2; }
+long SensorMsToCm(long microseconds) { return microseconds * 0.034 / 2; }
 
 // Get the front sensor data, in centimeter
 long getFrontSensor() {

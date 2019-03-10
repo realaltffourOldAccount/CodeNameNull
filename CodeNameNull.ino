@@ -54,6 +54,7 @@ void setup() {
   onL298N();
   steadyCar();
   alertStartup();
+  Serial.begin(9600);
 }
 
 void loop() {
@@ -96,33 +97,11 @@ void loop() {
     long front_sensor = getFrontSensor();
     long rear_sensor = getRearSensor();
 
-    /// STEP 1
-    if ((front_sensor < 5) && (rear_sensor < 5))  // steady confirmed
-      front = 0;
-    /// STEP 2
-    else if (front_sensor < 5)
-      front = -1;
+    if (front_sensor < 5)
+      moveCarForward();
     else if (rear_sensor < 5)
-      front = 1;
-    /// STEP 3
-    else if ((front_sensor >= 5) && (front_sensor <= 10))
-      right = 1;
-    else if ((front_sensor >= 10) && (front_sensor <= 15))
-      right = -1;
-    else if ((rear_sensor >= 5) && (rear_sensor <= 10))
-      right = 1;
-    else if ((rear_sensor >= 10) && (rear_sensor <= 15))
-      right = -1;
-
-    // Execute the choosen path
-    if (front == 1) moveCarForward();
-    if (front == -1) moveCarBackward();
-    if (right == 1) turnCarRight();
-    if (right == -1) turnCarLeft();
-
-    if (front == 0 && right == 0)
-      steadyCar();
-    else if (front == 0)
+      moveCarBackward();
+    else
       steadyCar();
   }
 }

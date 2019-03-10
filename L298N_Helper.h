@@ -20,6 +20,10 @@ bool isL298N_Off() { return !_isOn; }
 
 // Turn on the L298N
 void onL298N() {
+  pinMode(L298N_LEFT_CHANNEL_FRONT, OUTPUT);
+  pinMode(L298N_LEFT_CHANNEL_BACK, OUTPUT);
+  pinMode(L298N_RIGHT_CHANNEL_FRONT, OUTPUT);
+  pinMode(L298N_RIGHT_CHANNEL_BACK, OUTPUT);
   pinMode(L298N_TURN_ON_PIN, OUTPUT);
   digitalWrite(L298N_TURN_ON_PIN, HIGH);
   _isOn = true;
@@ -27,11 +31,6 @@ void onL298N() {
 
 // Turn off the L298N
 void offL298N() {
-  pinMode(L298N_LEFT_CHANNEL_FRONT, OUTPUT);
-  pinMode(L298N_LEFT_CHANNEL_BACK, OUTPUT);
-  pinMode(L298N_RIGHT_CHANNEL_FRONT, OUTPUT);
-  pinMode(L298N_RIGHT_CHANNEL_BACK, OUTPUT);
-
   digitalWrite(L298N_LEFT_CHANNEL_FRONT, LOW);
   digitalWrite(L298N_LEFT_CHANNEL_BACK, LOW);
   digitalWrite(L298N_RIGHT_CHANNEL_FRONT, LOW);
@@ -41,11 +40,6 @@ void offL298N() {
 
 // Steady
 void steadyCar() {
-  pinMode(L298N_LEFT_CHANNEL_FRONT, OUTPUT);
-  pinMode(L298N_LEFT_CHANNEL_BACK, OUTPUT);
-  pinMode(L298N_RIGHT_CHANNEL_FRONT, OUTPUT);
-  pinMode(L298N_RIGHT_CHANNEL_BACK, OUTPUT);
-
   digitalWrite(L298N_LEFT_CHANNEL_FRONT, LOW);
   digitalWrite(L298N_LEFT_CHANNEL_BACK, LOW);
   digitalWrite(L298N_RIGHT_CHANNEL_FRONT, LOW);
@@ -55,28 +49,26 @@ void steadyCar() {
 // Forward
 void moveCarForward() {
   // if (!_isOn) return;
-  pinMode(L298N_RIGHT_CHANNEL_FRONT, OUTPUT);
+  steadyCar();
   digitalWrite(L298N_RIGHT_CHANNEL_FRONT, HIGH);
 }
 
 // BackWard
 void moveCarBackward() {
-  if (!_isOn) return;
-  pinMode(L298N_RIGHT_CHANNEL_BACK, OUTPUT);
+  // if (!_isOn) return;
+  steadyCar();
   digitalWrite(L298N_RIGHT_CHANNEL_BACK, HIGH);
 }
 
 // Right
 void turnCarRight() {
   if (!_isOn) return;
-  pinMode(L298N_LEFT_CHANNEL_BACK, OUTPUT);
   digitalWrite(L298N_LEFT_CHANNEL_BACK, HIGH);
 }
 
 // Left
 void turnCarLeft() {
   if (!_isOn) return;
-  pinMode(L298N_LEFT_CHANNEL_FRONT, OUTPUT);
   digitalWrite(L298N_LEFT_CHANNEL_FRONT, HIGH);
 }
 
